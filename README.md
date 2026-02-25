@@ -2,7 +2,7 @@
 
 This project demonstrates building a **PostgreSQL-based analytics system** for a SaaS platform, including **materialized views**, **analytics queries**, and **Python visualization dashboards**.  
 
-It is designed to showcase SQL, database design, analytics, and data visualization skills for portfolios and interviews.
+It is designed to showcase SQL, database design, analytics, and data visualization skills.
 
 ---
 
