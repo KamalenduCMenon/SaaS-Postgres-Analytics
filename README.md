@@ -7,6 +7,7 @@ It is designed to showcase SQL, database design, analytics, and data visualizati
 ---
 
 ## Project Structure
+```
 saas-postgres-analytics/
 │
 ├── schema/ # Table creation and database reset scripts
@@ -16,7 +17,7 @@ saas-postgres-analytics/
 ├── dashboard/ # Python notebook and generated charts
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## Features
